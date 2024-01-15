@@ -1,0 +1,5 @@
+# Download the data set from the kagle website link
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+Hint link
+    https://www.kaggle.com/code/ibtesama/getting-started-with-a-movie-recommendation-system
